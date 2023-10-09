@@ -18,3 +18,8 @@ int main() {
 1 test  
   2 test  
     3 test       
+
+
+~~ 취소선 ~~
+
+<u> 밑줄 </u>
