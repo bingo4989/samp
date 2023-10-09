@@ -15,9 +15,9 @@ int main() {
   - test2  
      - test3  
 
-1 test  
-  2 test  
-    3 test       
+1. test  
+2. test  
+3. test       
 
 
 ~~취소선~~
